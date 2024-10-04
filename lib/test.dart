@@ -16,7 +16,7 @@ class Widgetdialog extends StatelessWidget {
                       applicationName: 'Flutter App',
                       applicationVersion: '3.22',
                       children: [
-                        Text("This is create by flutter"),
+                        Text("This is create by flutter test"),
                       ],
                     ));
           },
